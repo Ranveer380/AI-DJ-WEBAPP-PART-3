@@ -1,0 +1,42 @@
+.heading {
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color:black;
+}
+body{
+    background-size: cover;
+}
+.song_speed{
+    float: left;
+
+}
+.song_speed_img{
+    width: 200px;
+
+}
+#Speed{
+    font-size:23px;
+    margin:15px;
+}
+.song_volume{
+    float: right;
+}
+.song_volume_img{
+    width:200px;
+}
+#Volume{
+    font-size: 23px;
+    margin:15px;
+}
+canvas{
+    border: solid 5px white;
+    margin-top: -70px;
+} .song_play{
+    width: 130px;
+margin-top: 10px;
+font-size: 25px;
+}
